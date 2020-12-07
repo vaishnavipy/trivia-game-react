@@ -1,0 +1,60 @@
+body{
+  background-color: #213E69;
+}
+
+.main-container{
+  text-align: center;
+  width: 50vw;
+  margin:auto;
+  padding-top:100px;
+}
+
+.category,.answer-class,.play-again{
+  border-radius: 10px;
+  background-color: #DFDFDF;
+  color:black;
+ 
+  width:50%;
+  margin: 20px auto;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 17px;
+
+}
+
+.category:hover,.answer-class:hover,.play-again:hover{
+  color:white;
+  background-color: green;
+}
+.time{
+  text-align: right;
+  float:right;
+  color:white;
+}
+.question{
+  color:white;
+  clear:both;
+}
+.questionNo{
+  color:white;
+  text-align: left;
+  float:left;
+}
+.result {
+  text-align: left;
+  font-size: 17px;
+  color:white;
+}
+.c-ans{
+  color:green;
+
+}
+.p-ans{
+  color:white;
+}
+.list{
+  margin:20px;
+}
+
+
+
