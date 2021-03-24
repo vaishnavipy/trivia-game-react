@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trivia-game-react/static/css/main.cfc2a746.chunk.css",
+    "main.js": "/trivia-game-react/static/js/main.6e0633ff.chunk.js",
+    "main.js.map": "/trivia-game-react/static/js/main.6e0633ff.chunk.js.map",
+    "runtime-main.js": "/trivia-game-react/static/js/runtime-main.9baa0ba8.js",
+    "runtime-main.js.map": "/trivia-game-react/static/js/runtime-main.9baa0ba8.js.map",
+    "static/js/2.3c540b34.chunk.js": "/trivia-game-react/static/js/2.3c540b34.chunk.js",
+    "static/js/2.3c540b34.chunk.js.map": "/trivia-game-react/static/js/2.3c540b34.chunk.js.map",
+    "index.html": "/trivia-game-react/index.html",
+    "static/css/main.cfc2a746.chunk.css.map": "/trivia-game-react/static/css/main.cfc2a746.chunk.css.map",
+    "static/js/2.3c540b34.chunk.js.LICENSE.txt": "/trivia-game-react/static/js/2.3c540b34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9baa0ba8.js",
+    "static/js/2.3c540b34.chunk.js",
+    "static/css/main.cfc2a746.chunk.css",
+    "static/js/main.6e0633ff.chunk.js"
+  ]
+}
